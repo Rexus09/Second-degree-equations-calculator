@@ -27,9 +27,9 @@ field_x2 = Entry(root, width = 50)
 field_x1 = Entry(root, width = 50)
 field_x0 = Entry(root, width = 50)
 
-field_x2.insert(0,"X Grado 2")
-field_x1.insert(0,"X Grado 1")
-field_x0.insert(0,"Grado 0")
+field_x2.insert(0,"X Grade 2")
+field_x1.insert(0,"X Grade 1")
+field_x0.insert(0,"Grade 0")
 
 
 
